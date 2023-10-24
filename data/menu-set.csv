@@ -1,0 +1,13 @@
+﻿item_id,item_cat,item_name,item_description,item_format,group_seed
+1,vegan,sesame street,"Sesame Street (Kale, Cucumber, Sunflower Seeds, Portobello Mushroom, Sesame Tofu, Edamame, Miso Sesame Ginger Dressing in a Grain Blend)",salad,3
+2,vegan,susie's garden,"Susie's Garden (Lemon Teriyaki Seitan, Vegan Cheese, Avocado, Lettuce, Tomato, and Sprouts on Multigrain Bread)",sandwich (cold),2
+3,vegan,plant based parm,"Plant-Based Parm (Vegan Chicken Patty, Basil Oil, Marinara Sauce, and Vegan Mozzarella Cheese on Panini-Pressed Focaccia Bread)",sandwich (hot),1
+4,vegetarian,med fed,"Med Fed (Quinoa, Falafel, Feta, Tomatoes, Cucumbers, Hummus, and Cucumber Tzatziki Dressing in a Spring Mix)",salad,3
+5,vegetarian,viva chelsea!,"Viva Chelsea! (Mozzarella, Basil Oil, Tomato, Salt, and Pepper on Rosemary Focaccia)",sandwich (cold),2
+6,vegetarian,bay burger,"Bay Burger (Veggie Burger, Goat Cheese, Basil, Sun-Dried Tomato, and Chipotle Aioli on Multigrain Roll)",sandwich (hot),1
+7,meat,chicken caesar salad,"Chicken Caesar Salad (Roasted Chicken, Croutons, and Caesar dressing on Romaine Lettuce)",salad,5
+8,meat,danby revisited,"Danby Revisited (Smoked Turkey, Avocado, Tomato, and Parsley-Garlic Dressing on Multigrain Bread )",sandwich (cold),4
+9,meat,the cuban,"The Cuban (Pulled Pork, Ham, Dill Pickles, Swiss Cheese, and Dijon Mustard on Panini-Pressed Sub Roll)",sandwich (hot),1
+10,meat,chef's salad,"Chef's Salad (Ham, Turkey, Swiss Cheese, Hard-Boiled Egg, Tomatoes, Olives, and Ranch Dressing on Fresh Green Mix)",salad,6
+11,meat,the italian,"The Italian (Salami, Prosciutto, Pesto, Spinach, Tomato, and Provolone on Rosemary Focaccia)",sandwich (cold),3
+12,meat,little italy,"Little Italy (Chicken Breast, Marinara Sauce, Spices, and Mozzarella Cheese on Rosemary Focaccia)",sandwich (hot),2
